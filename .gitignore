@@ -9,3 +9,7 @@
 /x64/Debug/hiredis.tlog/*.tlog
 /x64/Debug/*.log
 /lib/*.lib
+/*.user
+/x64/Debug/*.idb
+/x64/Debug/*.pdb
+/x64/Debug/hiredis.tlog/*.lastbuildstate
